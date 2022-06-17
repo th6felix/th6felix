@@ -7,11 +7,6 @@
 <li> Cursando Análise e Desenvolvimento de Sistemas </li>
 <li> Atualmente, Estagiária de Desenvolvimento na <a href="www.vivo.com.br" target="_blank">Vivo (Telefônica)</a></li>
 <br>
-<div align="center">
-
-  <img src="https://c.tenor.com/N-fJ0Azh_ykAAAAC/cat-computer.gif"/>
-  
-</div>
 
 <div style="display: inline_block">
   <h2> Tecnologias que uso atualmente </h2>
@@ -22,6 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vs Code" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" />
  </div>
  <br>
@@ -31,6 +27,12 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilycrystie&show_icons=true&theme=radical)
   
  </div>
+ <br>
+ <div align="center">
+
+  <img src="https://c.tenor.com/N-fJ0Azh_ykAAAAC/cat-computer.gif"/>
+  
+</div>
 
 
 <!--
