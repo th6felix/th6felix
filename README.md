@@ -3,9 +3,14 @@
 <br>
 <br>
 <p> Sejam bem-vindos ao meu Github...</p>
-<li> Sou Desenvolvedora Frontend </li>
-<li> Cursando Análise e Desenvolvimento de Sistemas </li>
-<li> Atualmente, Estagiária de Desenvolvimento na <a href="www.vivo.com.br" target="_blank">Vivo (Telefônica)</a></li>
+<ul>
+  <li> Sou Desenvolvedora Frontend </li>
+  <li> Cursando Análise e Desenvolvimento de Sistemas </li>
+  <li> Atualmente, Estagiária de Desenvolvimento na <a href="www.vivo.com.br" target="_blank">Vivo (Telefônica)</a></li>
+    <ul>
+      <li> Onde estou aprendendo Backend também </li>
+    </ul>
+</ul>
 <br>
 
 <div style="display: inline_block" align="center">
