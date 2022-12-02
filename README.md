@@ -6,9 +6,9 @@
 <ul>
   <li> Sou Desenvolvedora Frontend </li>
   <li> Cursando Análise e Desenvolvimento de Sistemas </li>
-  <li> Atualmente, Estagiária de Desenvolvimento na <a href="www.vivo.com.br" target="_blank">Vivo (Telefônica)</a></li>
+  <li> Atualmente, trabalho com Desenvolvimento e Automação</li>
     <ul>
-      <li> Onde estou aprendendo Backend também </li>
+      <li> Onde estou aprendendo, principalmente, Backend </li>
     </ul>
 </ul>
 <br>
