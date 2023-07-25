@@ -5,7 +5,7 @@
 <p> Sejam bem-vindos ao meu Github...</p>
 <ul>
   <li> Sou Desenvolvedora Frontend </li>
-  <li> Cursando Análise e Desenvolvimento de Sistemas </li>
+  <li> Graduada em Análise e Desenvolvimento de Sistemas </li>
   <li> Atualmente, trabalho com Desenvolvimento e Automação</li>
     <ul>
       <li> Onde estou aprendendo, principalmente, Backend </li>
