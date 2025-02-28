@@ -1,14 +1,14 @@
-<h1> Olá, me chamo Emily 👋 </h1>
+<h1> Olá, me chamo Thiago 👋 </h1>
 <a href="https://www.linkedin.com/in/emilycrystie/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <br>
 <br>
 <p> Sejam bem-vindos ao meu Github...</p>
 <ul>
-  <li> Sou Desenvolvedora Frontend </li>
+  <li> Sou Desenvolvedor Frontend </li>
   <li> Graduada em Análise e Desenvolvimento de Sistemas </li>
   <li> Atualmente, trabalho com Desenvolvimento e Automação</li>
     <ul>
-      <li> Onde estou aprendendo, principalmente, Backend </li>
+      <li> Contribuindo para ser Fullstack </li>
     </ul>
 </ul>
 <br>
