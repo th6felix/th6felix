@@ -1,21 +1,18 @@
 <h1> Olá, me chamo Thiago 👋 </h1>
-<a href="https://www.linkedin.com/in/emilycrystie/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/th6felix/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <br>
 <br>
 <p> Sejam bem-vindos ao meu Github...</p>
 <ul>
-  <li> Sou Desenvolvedor Frontend </li>
-  <li> Graduada em Análise e Desenvolvimento de Sistemas </li>
-  <li> Atualmente, trabalho com Desenvolvimento e Automação</li>
-    <ul>
-      <li> Contribuindo para ser Fullstack </li>
-    </ul>
+  <li> Sou Desenvolvedor Fullstack </li>
+  <li> Graduado em Análise e Desenvolvimento de Sistemas </li>
+  <li> Atualmente, trabalho com Desenvolvimento e Automação pra área de Teleco</li>
 </ul>
 <br>
 
 <div style="display: inline_block" align="center">
   <h2> Tecnologias que uso atualmente </h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CC" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50" />
@@ -31,7 +28,7 @@
  <br>
  <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=th6felix&show_icons=true&theme=radical)
+  ![Thiago Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=th6felix&show_icons=true&theme=radical)
   
  </div>
  <br>
