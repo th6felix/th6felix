@@ -26,11 +26,11 @@
  </div>
  <br>
  <br>
- <div align="center">
+<!--  <div align="center">
   
-  ![Thiago Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=th6felix&show_icons=true&theme=radical)
+ ![Thiago Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=th6felix&show_icons=true&theme=radical)
   
- </div>
+ </div> -->
  <br>
  <div align="center">
 
